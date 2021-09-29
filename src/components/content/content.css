@@ -1,0 +1,10 @@
+.contentList{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.contentList li{
+margin: 0 10px;
+
+}
